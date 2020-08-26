@@ -9,7 +9,7 @@ Uma aplicação para armazenar transações financeiras de entrada e saída, que
 # clonar o repositório
 git clone https://github.com/nivaldoandrade/desafio-fundamentos-node.git
 
-# Instalar as dependência
+# Instalar as dependências
 yarn
 
 # Iniciar a aplicação
